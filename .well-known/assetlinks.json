@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hasibtt.biznativeapp",
+    "sha256_cert_fingerprints": [
+      "40:4B:3F:34:C6:12:39:7C:7C:00:48:6B:2F:70:65:4C:E4:E2:17:DE:D1:B9:12:6D:F4:58:9B:D5:0B:C5:52:6B"
+    ]
+  }
+}]
