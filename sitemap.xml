@@ -12,4 +12,16 @@
       <changefreq>yearly</changefreq>
       <priority>0.5</priority>
    </url>
+   <url>
+      <loc>https://hasibtt.github.io/about/</loc>
+      <lastmod>2026-09-09</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://hasibtt.github.io/terms/</loc>
+      <lastmod>2026-09-09</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.3</priority>
+   </url>
 </urlset>
